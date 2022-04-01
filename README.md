@@ -1,4 +1,4 @@
-# Rubato2
+# Rubato_Menu
 
 (1) 시작화면
 ![image](https://user-images.githubusercontent.com/89179991/161180890-700b18b3-2440-44f0-a20f-9e4598d90ede.png)
