@@ -8,4 +8,4 @@
 
 
 (3) 이미지 슬라이드
-![image](https://user-images.githubusercontent.com/89179991/161181034-b49c6eac-4c5b-4983-bcaa-904af77eac7a.png)
+![image](https://user-images.githubusercontent.com/89179991/161182177-d4133fab-7670-4b5a-afb4-709b3bb9ae17.png)
